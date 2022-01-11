@@ -8,6 +8,8 @@ Github: [mrfambo](https://github.com/mrfambo)
 - I'm proud husband and father
 - I'm an Open Source enthusiast 🤠
 
+![](https://komarev.com/ghpvc/?username=ali-cp)
+
 <!---
 mrfambo-cp/mrfambo-cp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
